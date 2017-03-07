@@ -1,0 +1,7 @@
+# build results
+*.exe
+*.out
+*.o
+
+# kDevelop
+*.kdev5
