@@ -2,6 +2,8 @@
 *.exe
 *.out
 *.o
+*/build/
 
 # kDevelop
-*.kdev5
+*.kdev4
+
